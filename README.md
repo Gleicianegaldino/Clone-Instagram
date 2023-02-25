@@ -1,8 +1,22 @@
 # Clone Instagram - Página de login.
 
-O projeto foi desenvolvido através do Santander Bootcamp Fullstack Developer, seu objetivo foi recontruir a página de login do Instagram. Para realizar este desafio foi utilizado CSS com Flexbox, uma das abordagens de posicionamento de elementos mais utilizadas quando se trata de responsividade. 
+Este projeto foi desenvolvido durante o Santander Bootcamp Fullstack Developer com o objetivo de recriar a página de login do Instagram. A proposta do desafio foi aplicar o conhecimento de CSS com Flexbox, uma técnica de posicionamento de elementos bastante utilizada para garantir a responsividade da página.
 
-Prof: Gabriela Pinheiro - Dio.
+## Sobre o projeto
+O projeto foi orientado pela professora Gabriela Pinheiro, da Digital Innovation One (DIO), e teve como propósito estimular o aprendizado de técnicas avançadas de CSS para construção de interfaces de usuário mais dinâmicas e intuitivas.
 
-# Preview
+## Tecnologias utilizadas
+- HTML
+- CSS
+- Flexbox
+
+## Como executar o projeto
+Clone o repositório para a sua máquina local
+
+Abra o arquivo index.html em um navegador web
+
+### Autora
+O projeto foi desenvolvido por Gleiciane Galdino.
+
+# Preview:
 ![clone-instagram](https://user-images.githubusercontent.com/78940661/179611368-8e6803b4-543b-4578-b7be-a2981a2bf5ee.png)
