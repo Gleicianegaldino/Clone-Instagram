@@ -11,7 +11,7 @@ O projeto foi orientado pela professora Gabriela Pinheiro, da Digital Innovation
 - Flexbox
 
 ## Deploy
-[https://skillacademy-gg.netlify.app/](https://clone-instagram-gg.netlify.app/)
+https://clone-instagram-gg.netlify.app/
 
 # Preview:
 ![clone-instagram](https://user-images.githubusercontent.com/78940661/179611368-8e6803b4-543b-4578-b7be-a2981a2bf5ee.png)
